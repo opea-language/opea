@@ -1,0 +1,2 @@
+echo = print
+stp = input
